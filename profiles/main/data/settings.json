@@ -1,0 +1,26 @@
+{
+    "window.commandCenter": true,
+    "workbench.sideBar.location": "right",
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "Operator Mono, MonoLisa Variable, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": 400,
+    "editor.padding.top": 4,
+    "editor.padding.bottom": 4,
+    "editor.lineHeight": 3,
+    "workbench.colorTheme": "SynthWave '84",
+    "projectManager.git.baseFolders": [
+        "~/Sites"
+    ],
+    "synthwave84.brightness": 0.6,
+    "projectManager.git.ignoredFolders": [
+        "node_modules",
+        "out",
+        "typings",
+        "test",
+        ".haxelib",
+        "vendor"
+    ],
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "explorer.confirmPasteNative": false,
+    "window.confirmSaveUntitledWorkspace": false
+}
